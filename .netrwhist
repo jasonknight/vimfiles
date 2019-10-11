@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='D:/Projects/predator/.git'
+let g:netrw_dirhist_2='D:/wamp64/www/test.sprigmarket.cafe/wp-content'
+let g:netrw_dirhist_3='D:/wamp64/www/test.sprigmarket.cafe/wp-content/themes'
+let g:netrw_dirhist_4='D:/wamp64/www/test.sprigmarket.cafe/wp-content/themes/sprigmarket-theme'
+let g:netrw_dirhist_5='D:/wamp64/www/test.sprigmarket.cafe/wp-content/themes/sprigmarket-theme/js'
+let g:netrw_dirhist_6='D:/wamp64/www/test.sprigmarket.cafe/wp-content/themes/sprigmarket-theme/js/sprig-orders'
+let g:netrw_dirhist_7='D:/wamp64/www/jlmstaging1/wp-content/plugins/store-locator-shipping/templates'
